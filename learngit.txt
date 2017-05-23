@@ -1,2 +1,3 @@
 git is a version control software.
 git is free and under GPL.
+git tracks changes.
